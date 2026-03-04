@@ -1,0 +1,7 @@
+#Python builds
+__pycache__/
+*pyc
+.python-version
+
+#Jupiter Notebook checkpoints
+.ipynb_checkpoints
